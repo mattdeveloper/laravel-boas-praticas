@@ -1,6 +1,6 @@
 # Boas Práticas com Laravel
 
-Siga também [PSR-2: Coding Style Guide](<[GitHub](http://github.com)>)
+Siga também [PSR-2: Coding Style Guide](https://www.php-fig.org/psr/psr-2/)
 
 | ?              | como              | exemplo                       | não faça                        |
 | -------------- | ----------------- | ----------------------------- | ------------------------------- |
