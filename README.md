@@ -25,6 +25,7 @@ Siga também [PSR-2: Coding Style Guide](https://www.php-fig.org/psr/psr-2/)
 - Dê um espaço de linha
 - Insira o retorno com o tipo do que é retornado
 
+```php
 /**
  * Here comes my method description
  * /this-is-my-route
@@ -35,3 +36,4 @@ Siga também [PSR-2: Coding Style Guide](https://www.php-fig.org/psr/psr-2/)
  *
  * @return boolean
  */
+```
