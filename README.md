@@ -16,3 +16,22 @@ Siga também [PSR-2: Coding Style Guide](https://www.php-fig.org/psr/psr-2/)
 | Tabela pivot   | singular, plural  | product_attributes            | ~~product_attribute~~           |
 
 1 - Pastas para _admin_ e _user_ ficam no singular.
+
+## Comentários
+- Insira o propósito do método
+- Insira a rota do método
+- Dê uma linha de espaço
+- Coloce os parâmetros aceitos com o tipo de dado dele(ex. string, int, bool, char...) e o nome da variável
+- Dê um espaço de linha
+- Insira o retorno com o tipo do que é retornado
+
+/**
+ * Here comes my method description
+ * /this-is-my-route
+ *
+ * @param string $name
+ * @param string $email
+ * @param int $age
+ *
+ * @return boolean
+ */
